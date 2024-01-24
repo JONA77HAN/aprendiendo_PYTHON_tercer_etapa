@@ -1,0 +1,1 @@
+hola como va? soy un archivo de texto el cual debera ser leído por el programa
