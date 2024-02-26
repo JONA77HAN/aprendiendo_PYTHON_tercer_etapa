@@ -5,5 +5,5 @@ if 'bien':
 else:
     print('¿como dices?')
 
-aclaracion = input('?: ')
 
+print('hola nuevamente python')

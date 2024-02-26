@@ -1,0 +1,1 @@
+nombre = input('ingresa tu nombre: ')
