@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculador de Viáticos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Bienvenido al Calculador de Viáticos</h1>
+    <form action="/calcular_gastos" method="post">
+        <p>Seleccione el medio de transporte:</p>
+        <select name="medio_transporte">
+            <option value="1">Bondi</option>
+            <option value="2">Tren</option>
+            <option value="3">Subte</option>
+        </select>
+        <br><br>
+        <input type="submit" value="Calcular Gastos">
+    </form>
+</body>
+</html>
