@@ -1,6 +1,6 @@
 import os
 
-archivo = open('/hola.txt')
+archivo = open('hola.txt')
 archivoContenido = archivo.read()
 archivo.close()
 
